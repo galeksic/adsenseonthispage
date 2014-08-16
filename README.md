@@ -1,5 +1,3 @@
-With "AdSense on this page" WordPress plugin you can disable AdSense ads on individual posts and pages. (If you can't, that means it doesn't work as expected...)
-
 This is **not** stand-alone plugin, it can be used **only** in addition to your existing solution for showing AdSense ads. It should work with:
 * other plugins
 * and / or if ad code is pasted in template
