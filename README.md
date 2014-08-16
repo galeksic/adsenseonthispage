@@ -5,7 +5,7 @@ This is **not** stand-alone plugin, it can be used **only** in addition to your 
 * both synchronous and asynchronous AdSense code
 * both content and link units.
 
-##How it works
+##How it works (if and when it works)
 
 If you disable ads on page, this plugin will search page source and it will replace all occurances of `adsbygoogle.js` and `show_ads.js` with `empty.js`. For more info, please see plugin source.
 
